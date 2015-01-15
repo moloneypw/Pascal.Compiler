@@ -1,0 +1,21 @@
+#!/bin/sh
+make
+./compile < test1.p
+./compile < test2.p
+./compile < test3.p
+./compile < test4.p
+./compile < test5.p
+./compile < test6.p
+./compile < test7.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p1.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p2.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p3.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p4.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p5.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p6.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p7.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p8.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p9.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p10.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p11.p
+#./compile < /nfs/galaxy/undergrad/2011/pmoloney/406/Testcases/tacA/p12.p
